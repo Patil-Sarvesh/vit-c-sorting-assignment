@@ -1,8 +1,10 @@
 /*
-Division : C
-Roll number: 71
-Name: Varun Ringnekar
-Date: 06/09/2020
+Name : Sarvesh Patil.
+Division : C.
+Roll no. : 30.
+Date : 06/09/2020.
+
+Program For Sorting With Insertion Sort.
 */
 
 #include<stdio.h>
